@@ -40,6 +40,7 @@ Dockerの使い方
 
 See also:
 
+- https://hub.docker.com/r/jupyter/scipy-notebook
 - https://docs.docker.com/docker-for-windows/install/
 - https://docs.docker.com/docker-for-windows/
 - https://docs.docker.com/engine/reference/commandline/cli/
